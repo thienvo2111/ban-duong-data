@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "version": "2026-11-11",
+  "createdAt": "2026-11-11T03:33:11Z",
+  "count": 8501,
+  "file": "vn-poi-2026-11-11.json.gz",
+  "bytes": 162672,
+  "sha256": "b997574405806114648d34e0e1908573626386c095e821273dda4ca96962ee6e",
+  "license": "ODbL-1.0",
+  "attribution": "© OpenStreetMap contributors"
+}
