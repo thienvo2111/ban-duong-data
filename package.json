@@ -1,0 +1,13 @@
+{
+  "name": "ban-duong-data",
+  "private": true,
+  "description": "Dữ liệu Điểm của app Bạn Đường, trích từ OpenStreetMap",
+  "license": "ODbL-1.0",
+  "scripts": {
+    "data": "tsx scripts/fetch-osm.ts",
+    "release": "node scripts/release.mjs"
+  },
+  "devDependencies": {
+    "tsx": "^4.23.15"
+  }
+}
