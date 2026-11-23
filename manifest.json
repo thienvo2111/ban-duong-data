@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "version": "2026-11-15",
-  "createdAt": "2026-11-15T23:25:01Z",
-  "count": 8508,
-  "file": "vn-poi-2026-11-15.json.gz",
-  "bytes": 162836,
-  "sha256": "13787926d7510a1ff9f9ac64f36765851135f0def3d781161ad7241dc98ff44a",
+  "version": "2026-11-23",
+  "createdAt": "2026-11-23T00:20:19Z",
+  "count": 8520,
+  "file": "vn-poi-2026-11-23.json.gz",
+  "bytes": 163151,
+  "sha256": "c48af6accd185858c55b5709e6db756aa266de642513b20e60a6801b5db272f1",
   "license": "ODbL-1.0",
   "attribution": "© OpenStreetMap contributors"
 }
